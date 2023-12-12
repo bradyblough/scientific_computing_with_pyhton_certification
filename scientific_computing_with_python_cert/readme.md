@@ -1,5 +1,4 @@
-# Scientific Computing with Python 
-Certificate Course from freecodecamp.org
+# Scientific Computing with Python Certificate Course 
 
 This repository includes challenge problems developed for the Scientific Computing with Python certificate on freecodecamp.org. All of these problems were completed successfully.
 
